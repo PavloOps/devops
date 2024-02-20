@@ -1,0 +1,6 @@
+controller:
+  admissionWebhooks:
+    patch:
+      image:
+        tag: "v1.0"
+        digest: ""
